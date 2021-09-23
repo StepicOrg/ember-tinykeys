@@ -1,6 +1,9 @@
 ember-tinykeys
 ==============================================================================
 
+[![npm version](https://badge.fury.io/js/ember-tinykeys.svg)](https://badge.fury.io/js/ember-tinykeys)
+[![CI](https://github.com/StepicOrg/ember-tinykeys/actions/workflows/ci.yml/badge.svg?branch=master&event=push)](https://github.com/StepicOrg/ember-tinykeys/actions/workflows/ci.yml)
+
 A simple, lightweight and Ember Octane-friendly keybindings for Ember applications.
 Powered by [tinykeys](https://github.com/jamiebuilds/tinykeys).
 

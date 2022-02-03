@@ -14,14 +14,14 @@ Compatibility
 * Ember.js v3.20 or above
 * Ember CLI v3.20 or above
 * Node.js v12 or above
-* ember-auto-import 1.x
+* ember-auto-import v2 or above
 
 Dependencies
 -----------------------------------------------------------------------------
 
 * tinykeys ^1.2.0
-* ember-modifier ^2.1.2
-* ember-auto-import ^1.12.0
+* ember-modifier ^2.0.0 || ^3.0.0
+* ember-auto-import ^2.0.0
 
 
 Installation

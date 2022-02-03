@@ -1,6 +1,6 @@
 {
   "name": "ember-tinykeys",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple and lightweight keybindings for Ember applications.",
   "keywords": [
     "ember-addon"
